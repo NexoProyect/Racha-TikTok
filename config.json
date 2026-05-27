@@ -2,7 +2,7 @@
   "TEST_MODE": false,
   "TARGET_USERS": ["amee.litaa", "cry_dariiii", "jass_1320", "c_ef_184"],
   "MESSAGE_TO_SEND": "Un dia mas de rachaaa [Mensaje enviado por RachaBot]",
-  "TARGET_SEND_TIME_HM": [20, 15],
+  "TARGET_SEND_TIME_HM": [20, 23],
   "COOKIES_FILE": "cookies.json",
   "LOG_FILENAME": "tiktok_bot.txt",
   "HEADLESS_MODE": true
